@@ -6,10 +6,10 @@ import static org.junit.Assert.assertEquals;
 
 public class BasicTest {
 
-    @Test
-    public void testMethod(){
-
-        assertEquals(10,10);
-
-    }
+//    @Test
+//    public void testMethod(){
+//
+//        assertEquals(10,10);
+//
+//    }
 }
